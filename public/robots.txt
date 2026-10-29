@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exactpin.vercel.app/sitemap.xml
